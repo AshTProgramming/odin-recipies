@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    
+h2 {
+    background-color: cadetblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: white;
+}
+
+.align, p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
